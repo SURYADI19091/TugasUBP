@@ -1,0 +1,37 @@
+1.Instansi Perusahaan
+
+2. 
+Suryadi (Laporan)
+22416255201103
+Bayu Arya Rahardja (DataBase)
+22416255201039
+Raihan Gymnastiar Putra (Coding)
+22416255201054
+
+3.
+  1)Sistem Complaint yang masih bersifat manual dan harus menghubungi admin secara langsung
+  3)Pengumuman apabila ada maintenance/kendala masih harus di infokan secara manual
+
+
+CBR UNITY NET adalah sebuah CV yang bergerak pada bidang jasa internet yang berjenis make to order yang mana
+kegiatan jasa akan dilakukan apabila costumer melakukna request instalasi kepada CV tersebut.
+CV ini befokus kepada jasa pelayanan internet yang berfokus pada daerah kecamatan lemahabang kab.karawang.
+dalam proses setelah instalasi sering terjadi beberapa masalah dalam dan penaganan masalah tersebut yang di alami costumer
+maka kami sebagai mahasiswa melakukan penelitian kepada sistem yang digunakan oleh CV CRB UNITY NET dan memberikan usulan untuk menyelesaikan masalah tersebut.
+
+A. Costumer
+Laporan complaint dan costumer service yang masih harus secara manual kepada admin.	
+•	Complaint masih bersifat manual dan harus mendatagi admin secara langsung untuk meminta melakukan perbaikan
+•	Proses Complaint terhadapat produk yang dilakukan oleh admin melalui proses yang panjang dan belum dimanfaatkannya sistem website untuk mempermudah complaint dari jarak jauh
+•	Costumer service masi bersifat manual dan harus mendatagi admin untuk konsultasi tentang jasa produknya.
+B. Admin
+•	Penyediaan dan pemrosesan complaint produk dari costumer masih dilakukan secara manual.
+•	Pelayanan Costumer service yang masih harus manual dan Pengumuman apabila ada perbaikan dari sisi server masih susah dilakukan
+•	Tidak terarsipnya secara rapih data complaint yang dibutuhkan dalam penyelesaian complaint dari costumer seperti stastus pengerjaan, dan data perbaikan 
+
+
+
+ jawaban yang kami usung
+1.membuat sistem complaint yang bersifat web dan bisa di pantau statusnya oleh admin/costumer
+2.membuat sistem costumer service agar admin/costumer bisa melakukan interaksi di mana saja
+3.membuat pengumuman dengan API wa agar admin hannya tinggal memasukan nama costumer dan memberikan pengumuman

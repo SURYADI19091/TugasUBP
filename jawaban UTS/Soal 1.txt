@@ -1,0 +1,1 @@
+Framework lebih mudahnya adalah sebuah kerangka kerja atau pondasi yang sudah  menyediakan berbagai fungsi di dalamnya tampa kita harus membuat kembali dan framework ini walaupun sudah menyediakan fitur tetapi kita harus tetap mengikuti aturan yang di buat oleh programmer dari framework tersebut
